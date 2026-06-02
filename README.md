@@ -12,6 +12,12 @@ Welcome to my internship submission repository. This repository contains all the
 * **Key Insights:** Uncovered a ~75% survival rate for female passengers versus <20% for males, and a massive survival disparity between 1st Class (>60%) and 3rd Class (<25%) passengers.
 * **File Link:** [Click here to view the notebook](./Titanic_Data_Cleaning_Project_.py)
 
+### 🔹 Task 2: Real-world Retail Data Project
+* **Objective:** Clean and preprocess raw retail order logs, handle text formatting errors in pricing, and analyze transaction distributions.
+* **Tools Used:** Python, Pandas, Seaborn, Matplotlib, Jupyter Notebook
+* **Key Insights:** Discovered that the **Chicken Bowl** is the absolute #1 most popular item sold by quantity, driving a major chunk of the store's transactional volume.
+* **File Link:** [Click here to view the notebook](./Retail_Data_Analysis_Project.ipynb)
+
 ---
 ## 🔄 Upcoming Tasks
-* *Task 2: (To be updated...)*
+* *Task 3: (To be updated...)*
