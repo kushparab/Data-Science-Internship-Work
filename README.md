@@ -18,6 +18,12 @@ Welcome to my internship submission repository. This repository contains all the
 * **Key Insights:** Preprocessed categorical data using label mapping, split datasets into train/test boundaries, evaluated predictions via an interactive confusion matrix, and achieved stable predictive baseline accuracy.
 * **File Link:** [Click here to view the notebook](./Predictive_Modeling_Project.py)
 
+### 🔹 Task 3: Exploratory Data Analysis (EDA) Project
+* **Objective:** Conduct an independent exploratory analysis on healthcare/lifestyle metrics to identify underlying correlations and stress factors.
+* **Tools Used:** Python, Pandas, Matplotlib, Seaborn, Statistical Heatmaps
+* **Key Insights:** Built a structural correlation matrix showing exact relational coefficients across health attributes, identifying key physical indicators that scale alongside stress spikes.
+* **File Link:** [Click here to view the notebook](./EDA_Exploration_Project.py)
+
 ### 🔹 Task 4: Real-world Retail Data Project
 * **Objective:** Clean and preprocess raw retail order logs, handle text formatting errors in pricing, and analyze transaction distributions.
 * **Tools Used:** Python, Pandas, Seaborn, Matplotlib, Jupyter Notebook
@@ -25,5 +31,3 @@ Welcome to my internship submission repository. This repository contains all the
 * **File Link:** [Click here to view the notebook](./Retail_Data_Analysis_Project.py)
 
 ---
-## 🔄 Upcoming Tasks
-* *Task 3: (To be updated...)*
