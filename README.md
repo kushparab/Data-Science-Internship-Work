@@ -30,4 +30,8 @@ Welcome to my internship submission repository. This repository contains all the
 * **Key Insights:** Discovered that the **Chicken Bowl** is the absolute #1 most popular item sold by quantity, driving a major chunk of the store's transactional volume.
 * **File Link:** [Click here to view the notebook](./Retail_Data_Analysis_Project.py)
 
+## 🏁 Conclusion
+All assigned internship tasks have been successfully completed, tested locally via Jupyter Notebook, and deployed to this repository. 
+
+*Thank you for the opportunity to learn and apply these data science concepts!*
 ---
